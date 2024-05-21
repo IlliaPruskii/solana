@@ -1,5 +1,5 @@
 import { useConnection, useWallet } from "@solana/wallet-adapter-react"
-import { PublicKey, Transaction, TransactionInstruction } from "@solana/web3.js"
+import { PublicKey, Transaction, TransactionInstruction  } from "@solana/web3.js"
 import { FC } from "react"
 
 const PROGRAM_ID = 'ChT1B39WKLS8qUrkLvFDXMhEJ4F1XZzwUNHUt4AU9aVa'
